@@ -63,7 +63,7 @@ turn_list.remove(turn_sign1)
 turn_sign2 = turn_list[0]
 new_turn_list = [turn_sign1, turn_sign2]
 
-print(f'первым ход делает игрок, выбравший {turn_sign1}, второй игрок, соответственно,'
+print(f'Первым ход делает игрок, выбравший {turn_sign1}, второй игрок, соответственно,'
       f'\nставит {turn_sign2}')
 
 counter = 0
